@@ -1,3 +1,5 @@
+<img width="1440" alt="Screenshot 2025-05-02 at 10 44 57" src="https://github.com/user-attachments/assets/eec68fda-e52f-4f1c-8237-1dcc12e4b42f" />
+<img width="1440" alt="Screenshot 2025-05-02 at 10 44 57 1" src="https://github.com/user-attachments/assets/9238ebf0-6358-4fc9-adba-bb8142574539" />
 # NFT-based Digital Certificate Issuance
 
 ## 📌 Project Title
